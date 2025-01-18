@@ -1,0 +1,89 @@
+﻿@model Lab2_TranVuTruongHuy_CSE422.Models.DeviceModel
+
+@{
+    ViewData["Title"] = "Create";
+    var categories = ViewBag.Categories;
+}
+
+<h1>Create Device</h1>
+
+<h4>DeviceModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="inputGroup-sizing-default">Name</span>
+                </div>
+                <input asp-for="Name" type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            @* <div class="form-group"> *@
+            @*     <label asp-for="Name" class="control-label"></label> *@
+            @*     <input asp-for="Name" class="form-control" /> *@
+            @*     <span asp-validation-for="Name" class="text-danger"></span> *@
+            @* </div> *@
+
+
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <label class="input-group-text" for="inputGroupSelect01">Belongs Category</label>
+                </div>
+                <select asp-for="CategoryId" class="custom-select" id="inputGroupSelect01">
+                    @foreach (CategoryModel category in categories)
+                    {
+                        <option value="@category.Id">@category.Name</option>
+                    }
+                </select>
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+            </div>
+
+            @* <div class="form-group">  *@
+            @*     <label class="control-label">Belongs Category</label> *@
+            @*     <select asp-for="CategoryId"> *@
+            @*         @foreach(CategoryModel category in categories) *@
+            @*         { *@
+            @*             <option value="@category.Id">@category.Name</option> *@
+            @*         } *@
+            @*     </select> *@
+            @*     <span asp-validation-for="CategoryId" class="text-danger"></span> *@
+            @* </div> *@
+
+
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <label class="input-group-text" for="inputGroupSelect01">Status</label>
+                </div>
+                <select asp-for="Status" class="custom-select" id="inputGroupSelect01">
+                    <option value="In use">In use</option>
+                    <option value="Broken">Broken</option>
+                    <option value="Under maintenance">Under maintenance</option>
+                </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+
+            @* <div class="form-group"> *@
+            @*     <label asp-for="Status" class="control-label"></label> *@
+            @*     <select asp-for="Status"> *@
+            @*         <option value="In use">In use</option> *@
+            @*         <option value="Broken">Broken</option> *@
+            @*         <option value="Under maintenance">Under maintenance</option> *@
+            @*     </select> *@
+            @*     <span asp-validation-for="Status" class="text-danger"></span> *@
+            @* </div> *@
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-success" />
+                <a class="btn btn-warning" asp-action="Index">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

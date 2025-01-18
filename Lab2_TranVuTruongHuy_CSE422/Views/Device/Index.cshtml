@@ -1,0 +1,119 @@
+﻿@model IEnumerable<Lab2_TranVuTruongHuy_CSE422.Models.DeviceModel>
+
+@{
+    ViewData["Title"] = "Index";
+    var categories = ViewBag.Categories as IEnumerable<CategoryModel>;
+}
+
+<h1>Device List</h1>
+
+<div class="container">
+    <div class="row">
+
+        <div class="col-3">
+            <h3>Filter by category</h3>
+            <div class="input-group">
+                <select id="categoryChosen" class="custom-select" id="inputGroupSelect04" aria-label="Example select with button addon">
+                    @foreach (var category in categories)
+                    {
+                        <option value="@category.Id">@category.Name</option>
+                    }
+                </select>
+                <div class="input-group-append">
+                    <button id="categoryFilter" class="btn btn-outline-secondary" type="button">Filter</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-3">
+            <h3>Filter by status</h3>
+            <div class="input-group">
+                <select id="statusChosen" class="custom-select" id="inputGroupSelect04" aria-label="Example select with button addon">
+                    <option value="In use">In use</option>
+                    <option value="Broken">Broken</option>
+                    <option value="Under maintenance">Under maintenance</option>
+                </select>
+                <div class="input-group-append">
+                    <button id="statusFilter" class="btn btn-outline-secondary" type="button">Filter</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-3">
+            <h3>Filter by name</h3>
+            <div class="input-group mb-3">
+                <input id="nameChosen" type="text" class="form-control" placeholder="Enter device name" aria-label="Recipient's username" aria-describedby="button-addon2">
+                <div class="input-group-append">
+                    <button id="nameFilter" class="btn btn-outline-secondary" type="button" id="button-addon2">Search</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-3">
+            <h3>Filter by code</h3>
+            <div class="input-group mb-3">
+                <input id="codeChosen" type="text" class="form-control" placeholder="Enter device code" aria-label="Recipient's username" aria-describedby="button-addon2">
+                <div class="input-group-append">
+                    <button id="codeFilter" class="btn btn-outline-secondary" type="button" id="button-addon2">Search</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Code
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                Category Name
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EntryDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="deviceContainer">
+        @if(Model != null)
+        {
+            @foreach (var item in Model) 
+            {
+                var name = @categories.FirstOrDefault(p => p.Id == item.CategoryId);
+                if (name != null)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Id)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            @name.Name
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Status)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.EntryDate)
+                        </td>
+                        <td>
+                            <a asp-action="Edit" class="btn btn-outline-primary" asp-route-id="@item.Id">Edit</a> |
+                            <a asp-action="Details" class="btn btn-outline-dark" asp-route-id="@item.Id">Details</a> |
+                            <a asp-action="Delete" class="btn btn-outline-danger" asp-route-id="@item.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+            }
+        }else
+        {
+            <p>There are no devices</p>
+        }
+    </tbody>
+</table>
+<a asp-action="Create" class="btn btn-outline-secondary">Create New A Device</a>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lab2_TranVuTruongHuy_CSE422.props" />
+</Project>
