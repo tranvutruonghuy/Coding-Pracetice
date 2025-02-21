@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|c:\\cse 422 coding practice\\lab4_tranvutruonghuy_cse422\\librarymanagementsystem\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|solutionrelative:reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|c:\\cse 422 coding practice\\lab4_tranvutruonghuy_cse422\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|c:\\cse 422 coding practice\\lab4_tranvutruonghuy_cse422\\librarymanagementsystem\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|solutionrelative:reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|c:\\cse 422 coding practice\\lab4_tranvutruonghuy_cse422\\librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|c:\\cse 422 coding practice\\lab4_tranvutruonghuy_cse422\\librarymanagementsystem\\publication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|solutionrelative:publication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|c:\\cse 422 coding practice\\lab4_tranvutruonghuy_cse422\\librarymanagementsystem\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|solutionrelative:librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|c:\\cse 422 coding practice\\lab4_tranvutruonghuy_cse422\\librarymanagementsystem\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|c:\\cse 422 coding practice\\lab4_tranvutruonghuy_cse422\\librarymanagementsystem\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|solutionrelative:adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|c:\\cse 422 coding practice\\lab4_tranvutruonghuy_cse422\\librarymanagementsystem\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|solutionrelative:iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|c:\\cse 422 coding practice\\lab4_tranvutruonghuy_cse422\\librarymanagementsystem\\returnreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|solutionrelative:returnreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|c:\\cse 422 coding practice\\lab4_tranvutruonghuy_cse422\\librarymanagementsystem\\publicationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|solutionrelative:publicationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|c:\\cse 422 coding practice\\lab4_tranvutruonghuy_cse422\\librarymanagementsystem\\readermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|solutionrelative:readermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|c:\\cse 422 coding practice\\lab4_tranvutruonghuy_cse422\\librarymanagementsystem\\lendreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|solutionrelative:lendreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|c:\\cse 422 coding practice\\lab4_tranvutruonghuy_cse422\\librarymanagementsystem\\samplegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|solutionrelative:samplegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|c:\\cse 422 coding practice\\lab4_tranvutruonghuy_cse422\\librarymanagementsystem\\inputreadertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126A149-8FCD-4C10-BC3C-DFBDDC9C77B7}|LibraryManagementSystem.csproj|solutionrelative:inputreadertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\IPrintable.cs",
+              "RelativeDocumentMoniker": "IPrintable.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\IPrintable.cs",
+              "RelativeToolTip": "IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:44:19.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:44:15.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminManager.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\AdminManager.cs",
+              "RelativeDocumentMoniker": "AdminManager.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\AdminManager.cs",
+              "RelativeToolTip": "AdminManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:44:12.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\Admin.cs",
+              "RelativeToolTip": "Admin.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:43:20.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Publication.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\Publication.cs",
+              "RelativeDocumentMoniker": "Publication.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\Publication.cs",
+              "RelativeToolTip": "Publication.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:44:27.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:44:26.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryManager.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\LibraryManager.cs",
+              "RelativeDocumentMoniker": "LibraryManager.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\LibraryManager.cs",
+              "RelativeToolTip": "LibraryManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:44:24.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "ReportGenerator.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\ReportGenerator.cs",
+              "RelativeToolTip": "ReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:45:46.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\Reader.cs",
+              "RelativeDocumentMoniker": "Reader.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\Reader.cs",
+              "RelativeToolTip": "Reader.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:45:26.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReturnReportGenerator.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\ReturnReportGenerator.cs",
+              "RelativeDocumentMoniker": "ReturnReportGenerator.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\ReturnReportGenerator.cs",
+              "RelativeToolTip": "ReturnReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:45:49.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PublicationManager.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\PublicationManager.cs",
+              "RelativeDocumentMoniker": "PublicationManager.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\PublicationManager.cs",
+              "RelativeToolTip": "PublicationManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:45:10.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReaderManager.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\ReaderManager.cs",
+              "RelativeDocumentMoniker": "ReaderManager.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\ReaderManager.cs",
+              "RelativeToolTip": "ReaderManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:45:42.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LendReportGenerator.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\LendReportGenerator.cs",
+              "RelativeDocumentMoniker": "LendReportGenerator.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\LendReportGenerator.cs",
+              "RelativeToolTip": "LendReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:44:22.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SampleGenerator.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\SampleGenerator.cs",
+              "RelativeDocumentMoniker": "SampleGenerator.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\SampleGenerator.cs",
+              "RelativeToolTip": "SampleGenerator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:45:50.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InputReaderTool.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\InputReaderTool.cs",
+              "RelativeDocumentMoniker": "InputReaderTool.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab4_TranVuTruongHuy_CSE422\\LibraryManagementSystem\\InputReaderTool.cs",
+              "RelativeToolTip": "InputReaderTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:44:17.043Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
