@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|c:\\cse 422 coding practice\\lab5_tranvutruonghuy_cse422\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|c:\\cse 422 coding practice\\lab5_tranvutruonghuy_cse422\\librarymanagement\\overduefeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|solutionrelative:overduefeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|c:\\cse 422 coding practice\\lab5_tranvutruonghuy_cse422\\librarymanagement\\standardfeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|solutionrelative:standardfeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|c:\\cse 422 coding practice\\lab5_tranvutruonghuy_cse422\\librarymanagement\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|c:\\cse 422 coding practice\\lab5_tranvutruonghuy_cse422\\librarymanagement\\ilibraryobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|solutionrelative:ilibraryobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|c:\\cse 422 coding practice\\lab5_tranvutruonghuy_cse422\\librarymanagement\\ifeecalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|solutionrelative:ifeecalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|c:\\cse 422 coding practice\\lab5_tranvutruonghuy_cse422\\librarymanagement\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|c:\\cse 422 coding practice\\lab5_tranvutruonghuy_cse422\\librarymanagement\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|solutionrelative:newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|c:\\cse 422 coding practice\\lab5_tranvutruonghuy_cse422\\librarymanagement\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|solutionrelative:magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|c:\\cse 422 coding practice\\lab5_tranvutruonghuy_cse422\\librarymanagement\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|solutionrelative:idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|c:\\cse 422 coding practice\\lab5_tranvutruonghuy_cse422\\librarymanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|c:\\cse 422 coding practice\\lab5_tranvutruonghuy_cse422\\librarymanagement\\newspaperfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|solutionrelative:newspaperfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|c:\\cse 422 coding practice\\lab5_tranvutruonghuy_cse422\\librarymanagement\\magazinefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|solutionrelative:magazinefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|c:\\cse 422 coding practice\\lab5_tranvutruonghuy_cse422\\librarymanagement\\bookfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|solutionrelative:bookfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|c:\\cse 422 coding practice\\lab5_tranvutruonghuy_cse422\\librarymanagement\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|solutionrelative:documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|c:\\cse 422 coding practice\\lab5_tranvutruonghuy_cse422\\librarymanagement\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C09A46-FBE5-4169-8659-96ACD86303E2}|LibraryManagement.csproj|solutionrelative:databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILibraryObserver.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\ILibraryObserver.cs",
+              "RelativeDocumentMoniker": "ILibraryObserver.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\ILibraryObserver.cs",
+              "RelativeToolTip": "ILibraryObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:46:23.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:30:15.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:36:38.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\IDocument.cs",
+              "RelativeDocumentMoniker": "IDocument.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\IDocument.cs",
+              "RelativeToolTip": "IDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:35:53.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\Magazine.cs",
+              "RelativeDocumentMoniker": "Magazine.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\Magazine.cs",
+              "RelativeToolTip": "Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:38:11.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Newspaper.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\Newspaper.cs",
+              "RelativeDocumentMoniker": "Newspaper.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\Newspaper.cs",
+              "RelativeToolTip": "Newspaper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:38:38.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:47:22.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:56:07.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFeeCalculationStrategy.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\IFeeCalculationStrategy.cs",
+              "RelativeDocumentMoniker": "IFeeCalculationStrategy.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\IFeeCalculationStrategy.cs",
+              "RelativeToolTip": "IFeeCalculationStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:53:22.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StandardFeeStrategy.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\StandardFeeStrategy.cs",
+              "RelativeDocumentMoniker": "StandardFeeStrategy.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\StandardFeeStrategy.cs",
+              "RelativeToolTip": "StandardFeeStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:54:24.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OverdueFeeStrategy.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\OverdueFeeStrategy.cs",
+              "RelativeDocumentMoniker": "OverdueFeeStrategy.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\OverdueFeeStrategy.cs",
+              "RelativeToolTip": "OverdueFeeStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:55:47.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewspaperFactory.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\NewspaperFactory.cs",
+              "RelativeDocumentMoniker": "NewspaperFactory.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\NewspaperFactory.cs",
+              "RelativeToolTip": "NewspaperFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:41:20.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MagazineFactory.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\MagazineFactory.cs",
+              "RelativeDocumentMoniker": "MagazineFactory.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\MagazineFactory.cs",
+              "RelativeToolTip": "MagazineFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:40:46.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookFactory.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\BookFactory.cs",
+              "RelativeDocumentMoniker": "BookFactory.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\BookFactory.cs",
+              "RelativeToolTip": "BookFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:40:32.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DocumentFactory.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\DocumentFactory.cs",
+              "RelativeDocumentMoniker": "DocumentFactory.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\DocumentFactory.cs",
+              "RelativeToolTip": "DocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:40:10.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "DatabaseConnection.cs",
+              "ToolTip": "C:\\CSE 422 Coding Practice\\Lab5_TranVuTruongHuy_CSE422\\LibraryManagement\\DatabaseConnection.cs",
+              "RelativeToolTip": "DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:32:31.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
